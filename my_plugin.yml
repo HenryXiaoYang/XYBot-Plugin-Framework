@@ -1,0 +1,4 @@
+keywords: [ "我的插件","myplugin"] # 指令关键词 /我的插件 和 /myplugin 都会运行插件 my_plugin
+plugin_name: "my_plugin" # 插件名
+
+plugin_setting: "This is my setting!" # 插件设置，在my_plugin.py被读取
