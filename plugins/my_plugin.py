@@ -4,6 +4,7 @@ from loguru import logger
 
 from plugin_interface import PluginInterface
 
+# 适配 XYBot v0.0.6
 
 # 这里的类名得与插件设置文件中 plugin_name 一样。建议也与文件名一样
 class my_plugin(PluginInterface):

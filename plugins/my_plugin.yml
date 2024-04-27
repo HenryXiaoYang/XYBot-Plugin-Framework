@@ -1,3 +1,4 @@
+# 适配 XYBot v0.0.6
 keywords: [ "我的插件","myplugin"] # 指令关键词 /我的插件 和 /myplugin 都会运行插件 my_plugin
 plugin_name: "my_plugin" # 插件名
 
