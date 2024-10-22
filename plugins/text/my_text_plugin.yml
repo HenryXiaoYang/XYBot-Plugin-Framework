@@ -1,0 +1,1 @@
+my_setting: "Hello! I am a text plugin!" # 插件设置，在my_text_plugin.py被读取
